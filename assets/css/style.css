@@ -293,14 +293,14 @@ header h2 {
   color: var(--blue-gray);
 }
 
-.app.dark-mode .btn.active:hover {
+/* .app.dark-mode .btn.active:hover {
   color: var(--while-color);
   cursor: pointer;
-}
+} */
 .app.dark-mode .btn-toggle-play{
   box-shadow: 0 0 4px rgba(255, 255, 255, 0.3);
 }
 .app.dark-mode .btn:hover ,.btn:hover{
-  color: var(--blue-gray);
+  /* color: var(--blue-gray); */
   cursor: pointer;
 }
